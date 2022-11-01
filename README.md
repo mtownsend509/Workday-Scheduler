@@ -23,7 +23,8 @@ The user can determine the current time and date by reading the webpage. The use
 
 
 Website URL: https://mtownsend509.github.io/Workday-Scheduler/
-Website Screenshot: 
+Website Screenshot: ![Workday](https://user-images.githubusercontent.com/111660791/199154116-6e705dc4-da0d-4773-bf74-cf7781e67009.PNG)
+
 
 
 ## Credits
